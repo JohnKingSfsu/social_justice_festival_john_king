@@ -9,9 +9,9 @@ The overall goal of the website is to get people to know about forest restoratio
 
 ## Technical Overview
 Festival Planning: <br />
-https://github.com/JohnKingSfsu/social_justice_festival_john_king/blob/743f9849eb0a6605adb9c50bebb6a0c8e1dca93e/Concept%20Development <br />
+https://github.com/JohnKingSfsu/social_justice_festival_john_king/blob/31f96a752e7bcf393d6cf5e18395238a4996d527/Project%203.pdf <br />
 Branding Design: <br />
-https://github.com/JohnKingSfsu/social_justice_festival_john_king/blob/743f9849eb0a6605adb9c50bebb6a0c8e1dca93e/Brand%20Guide <br />
+https://github.com/JohnKingSfsu/social_justice_festival_john_king/blob/31f96a752e7bcf393d6cf5e18395238a4996d527/DES228_ProjectThreeBrandGuide-2.pdf <br />
 Figma Wireframe: <br />
 https://www.figma.com/design/3Be5uTFU81mhqmy9YlQZqO/Project-three?node-id=0-1&m=dev&t=3R3YnU74aXFoE43W-1 <br />
 

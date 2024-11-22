@@ -15,3 +15,5 @@ https://github.com/JohnKingSfsu/social_justice_festival_john_king/blob/31f96a752
 Figma Wireframe: <br />
 https://www.figma.com/design/3Be5uTFU81mhqmy9YlQZqO/Project-three?node-id=0-1&m=dev&t=3R3YnU74aXFoE43W-1 <br />
 
+Merch Designing: <br />
+![Mockup Artwork](Resources/thumbnail_Untitled%2013-2.png) <br />

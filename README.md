@@ -18,5 +18,8 @@ https://www.figma.com/design/3Be5uTFU81mhqmy9YlQZqO/Project-three?node-id=0-1&m=
 ### Merch Designing: <br />
 Artwork: <br />
 ![Mockup Artwork](Resources/thumbnail_Untitled%2013-2.png) <br />
+Link: https://github.com/JohnKingSfsu/social_justice_festival_john_king/blob/a047937e5ae410482e8394a5beecf0bf0e5ba4ad/Resources/thumbnail_Untitled%2013-2.png
+
 Mockup: <br />
 ![Mockup](Resources/image.png) <br />
+Link: https://github.com/JohnKingSfsu/social_justice_festival_john_king/blob/a047937e5ae410482e8394a5beecf0bf0e5ba4ad/Resources/image.png

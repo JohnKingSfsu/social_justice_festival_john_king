@@ -19,4 +19,4 @@ https://www.figma.com/design/3Be5uTFU81mhqmy9YlQZqO/Project-three?node-id=0-1&m=
 Artwork: <br />
 ![Mockup Artwork](Resources/thumbnail_Untitled%2013-2.png) <br />
 Mockup: <br />
-![Mockup Artwork](Resources/Pin_Button_Mockup_2-2.psd)
+![Mockup Artwork](Resources/Screen Shot 2024-11-21 at 4.39.30 PM)

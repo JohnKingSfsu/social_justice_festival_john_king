@@ -4,18 +4,18 @@
 }
 
 body {
-   min-height: 100vh;
+    min-height: 100vh;
     width: 100%;
 }
 
 nav {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-        align-items: center;
-        align-content: space-around;
-        margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: space-around;
+    margin: auto;
 }
 
 nav a {
@@ -29,16 +29,6 @@ a img {
     height: 80%;
 }
 
-a {
-    font-family: "PT Sans Narrow", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 2em;
-    color: black;
-    text-decoration: none;
-    z-index: 100;
-}
-
 #div1 {
     margin-top: 2%;
     margin-bottom: 2%;
@@ -49,8 +39,7 @@ a {
     z-index: 100;
     font-family: "Anton", sans-serif;
     font-style: normal;
-    color: white;
-    font-size: 3em;
+    font-size: 4em;
     text-align: center;
 }
 
@@ -59,13 +48,17 @@ h1 {
 }
 
 h3 {
-    font-size: 300%;
+    font-size: 3em;
     color: rgb(90, 28, 0);
+    color: rgb(90, 28, 0);
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
     margin-bottom: 1.2%;
 }
 
 button {
-    height: 75px;
+    height: 2%;
     width: 32%;
     align-self: center;
     border-radius: 20px;
@@ -80,22 +73,32 @@ hr {
     border: 0;
     width: 100%;
     background-color: rgb(117, 187, 63);
-    height: 10px;
+    height: 2%;
     position: absolute;
     bottom: 0;
 }
 
 img {
     width: 28%;
-    margin: 1%;
+    margin: 2%;
 }
 
 p {
-    font-size: 200%;
+    font-size: 2em;
     margin-bottom: 1.2%;
     font-family: "PT Sans Narrow", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+a {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+    color: black;
+    text-decoration: none;
+    z-index: 100;
 }
 
 .divs {
@@ -123,21 +126,24 @@ footer {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    position: absolute;
-    min-height: 15%;
-    width: 100%;
+    position: relative;
+    min-height: 100%;
+    width: 90%;
+    background-color: white;
     z-index: 100;
+    margin: 2%;
+    text-align: center;
 }
 
 footer a {
-    font-size: 200%;
+    font-size: 2em;
     color: black;
     text-decoration: none;
     z-index: 100;
 }
 
 footer p {
-    font-size: 200%;
+    font-size: 2em;
     color: black;
     text-decoration: none;
     z-index: 100;

@@ -185,4 +185,12 @@ footer p {
         transform: rotate(360deg);
     }
 
+    #inner-div {
+        position: relative;
+        left: 0%;
+        width: 50%;
+        margin: 1%;
+    
+    }
+
 }

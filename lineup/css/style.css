@@ -29,22 +29,12 @@ a img {
     height: 80%;
 }
 
-#div1 {
-    position: relative;
-    left: 0;
-    right: 0;
-    top: 20%;
-    height: 100%;
-    z-index: 100;
-}
-
 h1 {
     margin: 2%;
     font-size: 6em;
     text-align: center;
     font-family: "Anton", sans-serif;
     font-style: normal;
-    text-align: center;
     color: rgb(117, 187, 63);
 }
 
@@ -64,51 +54,6 @@ div {
     height: 4em;
     text-align: center;
 }
-
-#background1 {
-    width: 100%;
-    height: 4em;
-    top: 40%;
-    position: absolute;
-
-}
-
-#inner-div {
-    position: relative;
-    left: 2%;
-    width: 50%;
-    margin: 1%;
-
-}
-
-#inner-img {
-    background-image: url(../img/wildfire.jpg.webp);
-    background-repeat: repeat-x;
-    height: 31em;
-    width: 40em;
-    border-radius: 100%;
-    margin: 2%;
-    transition-duration: 2s;
-}
-
-#inner-img:hover {
-    background-image: url("../img/castle-rock-state-park-vista-1536x1024.jpeg");
-    transform: rotate(360deg);
-}
-
-#div2 {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    position: relative;
-    margin: auto;
-    margin-top: 5%;
-    text-align: justify;
-    width: 95%;
-    left: 0;
-    right: 0;
-}
-
 
 hr {
     border: 0;
@@ -144,8 +89,6 @@ hr {
     margin-right: 2%;
 }
 
-
-
 p {
     position: relative;
     z-index: 200;
@@ -154,10 +97,6 @@ p {
     font-weight: 400;
     font-style: normal;
     color: white;
-}
-
-#fundiv {
-    background-color: red;
 }
 
 a {
@@ -169,15 +108,6 @@ a {
     text-decoration: none;
     z-index: 100;
 }
-
-.divs {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    position: relative;
-    align-items: center;
-}
-
 
 footer {
     display: flex;

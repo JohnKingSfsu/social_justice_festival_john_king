@@ -40,7 +40,7 @@ a img {
 
 h1 {
     margin: 2%;
-    font-size: 6em;
+    font-size: 5em;
     text-align: center;
     font-family: "Anton", sans-serif;
     font-style: normal;
@@ -89,6 +89,8 @@ h3 {
     width: 95%;
     left: 0;
     right: 0;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 hr {
@@ -163,6 +165,10 @@ footer p {
 @media screen and (max-width: 800px) {
     * {
         font-size: 0.9em;
+    }
+
+    #div2 {
+        padding: 0;
     }
 
     .divs {

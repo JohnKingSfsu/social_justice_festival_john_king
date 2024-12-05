@@ -39,7 +39,7 @@ a img {
     z-index: 100;
     font-family: "Anton", sans-serif;
     font-style: normal;
-    font-size: 3em;
+    font-size: 2.5em;
     text-align: center;
 }
 
@@ -48,7 +48,7 @@ h1 {
 }
 
 h3 {
-    font-size: 3em;
+    font-size: 2.5em;
     color: rgb(90, 28, 0);
     font-family: "Kaushan Script", cursive;
     font-weight: 400;

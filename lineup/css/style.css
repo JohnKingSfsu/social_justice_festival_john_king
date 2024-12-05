@@ -31,7 +31,7 @@ a img {
 
 h1 {
     margin: 2%;
-    font-size: 6em;
+    font-size: 5em;
     text-align: center;
     font-family: "Anton", sans-serif;
     font-style: normal;
@@ -68,6 +68,8 @@ hr {
     color: black;
     margin: 2%;
     text-align: justify;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 .title {
